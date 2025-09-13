@@ -1,0 +1,273 @@
+{
+  "personal": {
+    "name": "Ibrahim Khan Riyadh",
+    "nickname": "Riyadh",
+    "title": "Associate Software Engineer",
+    "company": "Lowe's Companies, Inc.",
+    "location": "Dhaka, Bangladesh",
+    "email": "ik.riyad123@gmail.com",
+    "phone": "+880-1681-048811",
+    "tagline": "MERN-Stack Developer | Passionate about Crafting Seamless Web Experiences",
+    "bio": "I am a MERN stack and full-stack web developer skilled in React, Next.js, Node.js, Express, and modern databases like MongoDB, MySQL, and PostgreSQL. I love building responsive, user-focused applications with Tailwind CSS, DaisyUI, and Firebase.",
+    "closingBio": "Always eager to collaborate on exciting projects, learn new technologies, and grow as a developer. Let’s connect and build impactful digital experiences together!",
+    "story": [
+      "I am a full-stack web developer with experience in building modern applications using React, Next.js, Node.js, and Express. My expertise extends across both NoSQL (MongoDB, Firebase) and SQL (MySQL, PostgreSQL) databases, giving me flexibility in handling diverse project requirements.",
+      "I enjoy designing responsive and user-friendly interfaces with Tailwind CSS and DaisyUI, while also focusing on backend logic, secure APIs, and database management to ensure scalability and performance.",
+      "My projects include a Historical Artifacts Tracker, a Blood Donation Management System, and a Plant Care Tracker. These projects allowed me to implement features like authentication, role-based access control, and real-time data handling.",
+      "I am passionate about problem-solving, continuous learning, and writing clean, maintainable code. Beyond coding, I actively explore new frameworks and tools to stay up-to-date with modern web development trends."
+    ],
+    "profileImage": "/riyad-profile.jpg"
+  },
+  "stats": {
+    "projects": "5+",
+    "yearsExperience": "6-months+",
+    "technologiesMastered": "15+"
+  },
+  "social": {
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/ibrahim-khan-riyadh/",
+      "username": "ibrahim-khan-riyadh"
+    },
+    "github": {
+      "url": "https://github.com/Ik-Riyad",
+      "username": "Ik-Riyad"
+    },
+    "medium": {
+      "url": "https://medium.com/@ik.riyad123",
+      "username": "@ik.riyad123"
+    },
+    "email": "ik.riyad123@gmail.com",
+    "phone": "+8801681048811",
+    "resume": "https://drive.google.com/file/d/1PaduAW_rtthLdMyE_41BbJNM9p3wD_9a/view?usp=sharing"
+  },
+  "skills": {
+    "languages": [
+      {
+        "name": "JavaScript",
+        "experience": "1+ years",
+        "context": "Full-stack, React, Node.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "experience": "1+ years",
+        "context": "Enterprise React/Next.js",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "SQL",
+        "experience": "1+ years",
+        "context": "Database design, queries",
+        "category": "Programming Languages",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Node.js",
+        "experience": "1+ years",
+        "context": "RESTful APIs, microservices",
+        "category": "Backend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      }
+    ],
+    "frontend": [
+      {
+        "name": "React.js",
+        "experience": "1+ years",
+        "context": "MicroFrontends, SPAs",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Next.js",
+        "experience": "1+ year",
+        "context": "SSG/SSR applications",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+      },
+      {
+        "name": "Tailwind CSS",
+        "experience": "1+ years",
+        "context": "Utility-first CSS",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+      },
+      {
+        "name": "HTML/CSS",
+        "experience": "2+ years",
+        "context": "Responsive design",
+        "category": "Frontend",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+      }
+    ],
+    "cloud_databases": [
+      {
+        "name": "MongoDB",
+        "experience": "1+ year",
+        "context": "NoSQL databases",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      },
+      {
+        "name": "Firebase",
+        "experience": "1+ years",
+        "context": "Realtime DB, Auth",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+      },
+      {
+        "name": "PostgreSQL",
+        "experience": "1+ years",
+        "context": "Relational DB",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+      },
+      {
+        "name": "MySQL",
+        "experience": "1+ years",
+        "context": "Relational DB",
+        "category": "Cloud & Databases",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": 1,
+      "title": "Team Lead & Deputy Project Coordinator",
+      "company": "AcmeAI",
+      "location": "Dhaka, Bangladesh",
+      "logo": "/professional-experience-logos/acmeai.png",
+      "duration": "3+ years",
+      "description": "Lead a team of developers and designers to successfully deliver multiple projects on time. Coordinated cross-functional teams to ensure smooth project execution and communication. Managed project timelines, resources, and client expectations effectively.",
+      "achievements": [
+        "Lead multiple projects from planning to delivery ensuring timely completion",
+        "Coordinated cross-functional teams for smooth communication and workflow",
+        "Implemented best practices that improved team productivity and project quality",
+        "Gained strong skills in project management, team leadership, and problem-solving",
+        "Mentored team members and enhanced overall efficiency using collaborative tools"
+      ],
+      "technologies": [
+        "Google Docs",
+        "Google Sheets",
+        "Annotation Tools"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science (BSc), Computer Science and Engineering",
+    "institution": "Central University of Science & Technology",
+    "duration": "Feb 2026 - Ongoing",
+    "cgpa": "Ongoing",
+    "location": "Dhaka, Bangladesh"
+  },
+  "projects": [
+    
+    {
+      "id": 7,
+      "title": "Bubble Bop",
+      "subtitle": "QR-Based Restaurant Management",
+      "description": "Hotel management system that takes orders for each table based on scanning QR codes available at tables, streamlining the dining experience.",
+      "longDescription": "Django-based restaurant management system featuring QR code table ordering, MongoDB integration, email notifications, and comprehensive order management. Includes both customer-facing ordering interface and restaurant management dashboard.",
+      "technologies": [
+        "Python",
+        "Django",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "github": "https://github.com/Shades-en/Bubble-Bop-Food-Dine-In",
+      "featured": false,
+      "categories": [
+        "Fullstack Development",
+        "Restaurant Tech"
+      ],
+      "image": "https://i.postimg.cc/fWPqYYDr/image.png",
+      "status": "Completed",
+      "priority": 9
+    },
+    {
+      "id": 8,
+      "title": "Myxable",
+      "subtitle": "File Conversion Platform",
+      "description": "Open-source multiformat bulk file conversion platform that won 2nd place at Reva Hack 2021 hackathon.",
+      "longDescription": "Django-based file conversion platform supporting multiple file formats with bulk processing capabilities. Features user-friendly interface for seamless file format conversions, developed as part of hackathon competition.",
+      "technologies": [
+        "Python",
+        "Django",
+        "File Processing",
+        "Web Development"
+      ],
+      "github": "https://github.com/Shades-en/myxable",
+      "featured": false,
+      "categories": [
+        "Fullstack Development",
+        "Utility"
+      ],
+      "image": "https://i.postimg.cc/j2hVS5Jb/image.png",
+      "status": "Completed",
+      "priority": 7
+    },
+    {
+      "id": 9,
+      "title": "Valunique",
+      "subtitle": "Faceless Recruitment System",
+      "description": "Innovative recruitment platform eliminating bias through faceless hiring processes, developed during Volvo Group internship.",
+      "longDescription": "Node.js-based recruitment system designed to reduce hiring bias by focusing on skills and qualifications rather than personal attributes. Features comprehensive candidate evaluation, MySQL database integration, and EJS templating for dynamic content rendering.",
+      "technologies": [
+        "Node.js",
+        "Express",
+        "MySQL",
+        "Sequelize",
+        "EJS",
+        "HTML",
+        "CSS"
+      ],
+      "github": "https://github.com/Shades-en/Valunique",
+      "featured": false,
+      "categories": [
+        "Fullstack Development",
+        "HR Tech",
+        "Enterprise"
+      ],
+      "image": "https://i.postimg.cc/SRjy3CvP/image.png",
+      "status": "Completed",
+      "priority": 4
+    }
+  ],
+  "seo": {
+    "title": "Ibrahim Khan Riyadh - Full-Stack Developer (React/Next.js, Node.js, MongoDB)",
+    "description": "Full-Stack Developer with expertise in React.js, Next.js, Node.js, MongoDB, Firebase, Tailwind CSS, DaisyUI, Axios, and Stripe. Experienced in building responsive, scalable web applications and implementing efficient frontend-backend workflows.",
+    "keywords": [
+      "Ibrahim Khan Riyadh",
+      "Full-Stack Developer",
+      "React.js",
+      "Next.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "Firebase",
+      "Tailwind CSS",
+      "DaisyUI",
+      "Axios",
+      "Stripe",
+      "Web Development",
+      "Frontend",
+      "Backend",
+      "Responsive Design",
+      "Scalable Applications",
+      "JavaScript",
+      "MERN Stack"
+    ],
+    "ogImage": "/riyad-profile.jpg",
+    "googleSiteVerification": "oNrOrBYC8Dz7PNuaUMPlYXCVWaPbmLofyH5Q9EoXg50",
+    "icon": {
+      "icon": "/web-app-manifest.png",
+      "appleTouchIcon": "/apple-touch-icon.png"
+    }
+  }
+}
