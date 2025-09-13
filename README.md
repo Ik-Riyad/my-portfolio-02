@@ -108,10 +108,3 @@ npm run dev
 
 .Add your API key and email to .env.local to enable submissions
 
-
-You can **copy all of this directly** into your README.md file.  
-
-If you want, I can also **add a “Projects & Experience” section** at the bottom to showcase your actual work like Blood Donation System, Historical Artifacts Tracker, etc., which will make your portfolio stronger.  
-
-Do you want me to add that?
-
