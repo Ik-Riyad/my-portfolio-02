@@ -11,6 +11,7 @@ interface ProjectContentProps {
     description: string;
     technologies: readonly string[];
     github: string;
+    live: string;
     featured: boolean;
     status: string;
   };

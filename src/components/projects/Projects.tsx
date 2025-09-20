@@ -13,6 +13,7 @@ interface Project {
   readonly longDescription: string;
   readonly technologies: readonly string[];
   readonly github: string;
+  readonly live: string;
   readonly featured: boolean;
   readonly categories: readonly string[];
   readonly image: string;
