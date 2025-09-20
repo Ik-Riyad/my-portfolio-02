@@ -45,7 +45,7 @@ const Projects: React.FC = () => {
             Featured <span className="gradient-text">Projects</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Innovative solutions that bridge AI/ML technology with real-world impact
+            Building modern full-stack web applications with React, Next.js, and scalable backend solutions.
           </p>
         </div>
 

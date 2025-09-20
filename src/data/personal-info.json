@@ -48,20 +48,6 @@
         "context": "Full-stack, React, Node.js",
         "category": "Programming Languages",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-      },
-      {
-        "name": "TypeScript",
-        "experience": "1+ years",
-        "context": "Enterprise React/Next.js",
-        "category": "Programming Languages",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-      },
-      {
-        "name": "SQL",
-        "experience": "1+ years",
-        "context": "Database design, queries",
-        "category": "Programming Languages",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
       }
     ],
     "backend": [
@@ -117,20 +103,6 @@
         "context": "Realtime DB, Auth",
         "category": "Cloud & Databases",
         "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-      },
-      {
-        "name": "PostgreSQL",
-        "experience": "1+ years",
-        "context": "Relational DB",
-        "category": "Cloud & Databases",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-      },
-      {
-        "name": "MySQL",
-        "experience": "1+ years",
-        "context": "Relational DB",
-        "category": "Cloud & Databases",
-        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
       }
     ]
   },
@@ -168,73 +140,85 @@
     
     {
       "id": 7,
-      "title": "Bubble Bop",
-      "subtitle": "QR-Based Restaurant Management",
-      "description": "Hotel management system that takes orders for each table based on scanning QR codes available at tables, streamlining the dining experience.",
-      "longDescription": "Django-based restaurant management system featuring QR code table ordering, MongoDB integration, email notifications, and comprehensive order management. Includes both customer-facing ordering interface and restaurant management dashboard.",
+      "title": "🩸Blood Donation",
+      "subtitle": "Blood Donation Management System",
+      "description": "A responsive web application to search blood donors, manage donations securely, and facilitate blood donation efforts efficiently.",
+      "longDescription": "A responsive web application to search blood donors, manage donations securely, and facilitate blood donation efforts efficiently.",
       "technologies": [
-        "Python",
-        "Django",
+        "React",
+        "Express",
         "MongoDB",
+        "Node.js",
+        "JavaScript",
+        "Firebase",
         "HTML",
-        "CSS",
-        "JavaScript"
+        "Tailwindcss",
+        "Daisyui"
       ],
-      "github": "https://github.com/Shades-en/Bubble-Bop-Food-Dine-In",
+      "github": "https://github.com/Ik-Riyad/blood-donation-client",
+      "liveProject": "https://tourmaline-unicorn-6f9468.netlify.app/",
       "featured": false,
       "categories": [
-        "Fullstack Development",
-        "Restaurant Tech"
+        "MERN stack development",
+        "Donation Tech"
       ],
-      "image": "https://i.postimg.cc/fWPqYYDr/image.png",
+      "image": "https://i.postimg.cc/W3dz2LG3/blood-donation.png",
       "status": "Completed",
       "priority": 9
     },
     {
       "id": 8,
-      "title": "Myxable",
-      "subtitle": "File Conversion Platform",
-      "description": "Open-source multiformat bulk file conversion platform that won 2nd place at Reva Hack 2021 hackathon.",
-      "longDescription": "Django-based file conversion platform supporting multiple file formats with bulk processing capabilities. Features user-friendly interface for seamless file format conversions, developed as part of hackathon competition.",
+      "title": "🏺Historical Artifacts",
+      "subtitle": "Historical Artifacts Tracker",
+      "description": "Responsive full-stack app for exploring, sharing, and submitting historical artifacts with likes, profiles, and authentication.",
+      "longDescription": "A responsive full-stack web application that allows users to explore, share, and submit historical artifacts. Users can like their favorite artifacts, which are saved in their profile for easy access. The platform supports user authentication and enables seamless artifact sharing.",
       "technologies": [
-        "Python",
-        "Django",
-        "File Processing",
-        "Web Development"
+        "React",
+        "Express",
+        "MongoDB",
+        "Node.js",
+        "JavaScript",
+        "Firebase",
+        "HTML",
+        "Tailwindcss",
+        "Daisyui"
       ],
-      "github": "https://github.com/Shades-en/myxable",
+      "github": "https://github.com/Ik-Riyad/historical-artifacts-client",
+      "liveProject": "https://candid-pika-b371d8.netlify.app/",
       "featured": false,
       "categories": [
-        "Fullstack Development",
-        "Utility"
+        "Tracker App",
+        "Historical"
       ],
-      "image": "https://i.postimg.cc/j2hVS5Jb/image.png",
+      "image": "https://i.postimg.cc/NjWB19mg/historical-artifacts.png",
       "status": "Completed",
       "priority": 7
     },
     {
       "id": 9,
-      "title": "Valunique",
-      "subtitle": "Faceless Recruitment System",
-      "description": "Innovative recruitment platform eliminating bias through faceless hiring processes, developed during Volvo Group internship.",
-      "longDescription": "Node.js-based recruitment system designed to reduce hiring bias by focusing on skills and qualifications rather than personal attributes. Features comprehensive candidate evaluation, MySQL database integration, and EJS templating for dynamic content rendering.",
+      "title": "🌿 Plant Care",
+      "subtitle": "Plant Care Tracker",
+      "description": "Full-stack mobile-responsive app for plant lovers to track watering, health, and care of indoor & outdoor plants.",
+      "longDescription": "A beautifully themed, full-stack, mobile-responsive web application designed to help plant lovers easily monitor and manage the care of their indoor and outdoor plants. Built with love for green thumbs, this app tracks everything from watering to plant health — all in one place.",
       "technologies": [
-        "Node.js",
+        "React",
         "Express",
-        "MySQL",
-        "Sequelize",
-        "EJS",
+        "MongoDB",
+        "Node.js",
+        "JavaScript",
+        "Firebase",
         "HTML",
-        "CSS"
+        "Tailwindcss",
+        "Daisyui"
       ],
-      "github": "https://github.com/Shades-en/Valunique",
+      "github": "https://github.com/Ik-Riyad/mango_client",
+      "liveProject": "https://unique-donut-b731f9.netlify.app/",
       "featured": false,
       "categories": [
-        "Fullstack Development",
-        "HR Tech",
-        "Enterprise"
+        "Plant Care",
+        "Tracker App"
       ],
-      "image": "https://i.postimg.cc/SRjy3CvP/image.png",
+      "image": "https://i.postimg.cc/gkbYX6ym/plants.png",
       "status": "Completed",
       "priority": 4
     }

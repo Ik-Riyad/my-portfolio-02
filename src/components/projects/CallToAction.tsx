@@ -5,7 +5,7 @@ const CallToAction: React.FC = () => {
   return (
     <div className="text-center mt-16">
       <p className="text-muted-foreground mb-6">
-        Interested in collaborating on innovative AI/ML projects?
+        Excited to build responsive, scalable web apps with modern tech stacks.
       </p>
       <ScrollButton 
         targetId="contact" 
